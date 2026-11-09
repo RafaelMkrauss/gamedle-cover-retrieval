@@ -1,0 +1,11 @@
+torch>=2.3
+torchvision>=0.18
+timm>=1.0.7
+numpy>=1.26
+pillow>=10.0
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+requests>=2.31
+tqdm>=4.66
+jupyter

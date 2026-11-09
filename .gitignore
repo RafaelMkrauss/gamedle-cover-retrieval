@@ -1,0 +1,14 @@
+# Covers (copyrighted), measured masks, manifest and model weights
+data/
+*.pt
+*.pth
+*.safetensors
+*.npz
+*.jpg
+*.webp
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
